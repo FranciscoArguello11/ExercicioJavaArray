@@ -50,7 +50,6 @@ public class testeArray {
     private static void percorrendoArray2() {
         System.out.println("****** percorrendoArray2 ******");
         int[] arrayNum = {87, 68, 52, 5, 49, 83, 45, 12, 64};
-        int total = 0;
         for (int i = 0; i < arrayNum.length; i++) {
             System.out.println(arrayNum[i]);
         }
